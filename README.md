@@ -16,6 +16,7 @@ I'm basically a Nerd who loves being creative. I use programming as a tool to fr
 - Perl
 - Shell Script (Linux/Unix)
 - PHP
+- Frankus Framework
 
 ## Tools Used
 
@@ -24,4 +25,10 @@ I'm basically a Nerd who loves being creative. I use programming as a tool to fr
 - Visual Studio
 - Nginx
 - Apache Web Server
+- Node.js
+- Electron.js
+- Frankus Editor
+- Frankus Terminal
+- Frankus Shell
+- Coder Doc
 
